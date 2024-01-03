@@ -27,7 +27,7 @@ You can find the dataset [here](https://www.kaggle.com/datasets/agungpambudi/air
 
 ## Code Implementation
 
-The analysis is conducted using Python and popular libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn. Key steps include data loading, cleaning, visualization, statistical tests, and machine learning modeling.
+The analysis is conducted using **Python** and popular libraries such as **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-Learn. Key steps include data loading, cleaning, visualization, statistical tests,** and **machine learning modeling**.
 
 The Jupyter notebook provides a step-by-step walkthrough of the entire analysis, offering insights and visualizations at each stage.
 
